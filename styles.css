@@ -2,7 +2,7 @@ header {
 
 background-color:grey;
 
-color: blue;
+color: white;
 
 padding: 20px;
 
@@ -22,7 +22,7 @@ nav a {
 
 color: grey;
 
-text-decoration: flowers;
+text-decoration: italic;
 
 margin: 0 10px;
 body {
@@ -61,7 +61,7 @@ margin: 20px 0;
 }
   footer {
 
-background-color:blue;
+background-color:black;
 
 color: grey;
 
