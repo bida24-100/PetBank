@@ -1,81 +1,60 @@
+
+/* Header */
 header {
-background: linear-gradient(to top, darkbrown, darkgreen);
-
-color: white;
-
-padding: 20px;
-
-text-align: center;
-
+    background: linear-gradient(to top, #8B4513, #006400); /* SaddleBrown to DarkGreen */
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
-
+/* Header Title */
 header h1 {
-
-margin: 0;
-
+    margin: 0;
 }
 
-
+/* Navigation Links */
 nav a {
+    color: grey;
+    text-decoration: italic;
+    margin: 0 10px;
+}
 
-color: grey;
-
-text-decoration: italic;
-
-margin: 0 10px;
+/* Body */
 body {
+    font-family: Arial, sans-serif;
+    color: #89CFF0; /* Baby Blue */
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
 
-font-family: Arial, sans-serif;
-
-color:baby blue ;
-
-background-color:black;
-
-margin: 0;
-
-padding: 0;
-  
+/* Main Content */
 main {
-
-padding: 20px;
-
-max-width: 800px;
-
-margin: 0 auto;
-
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
-
+/* Images in Main */
 main img {
-
-max-width: 100%;
-
-height: auto;
-
-display: block;
-
-margin: 20px 0;
-
-}
-  footer {
-
-background-color:black;
-
-color: grey;
-
-text-align: center;
-
-padding: 10px;
-
-position: fixed;
-
-bottom: 0;
-
-width: 100%;
-
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
 }
 
-line-height: 1.6;
-
+/* Footer */
+footer {
+    background-color: black;
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
+
+
+
+
