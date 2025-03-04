@@ -1,7 +1,8 @@
 
+
 /* Header */
 header {
-    background: linear-gradient(to top, #8B4513, #006400); /* SaddleBrown to DarkGreen */
+    background-color: #006400; /* Dark Green */
     color: white;
     padding: 20px;
     text-align: center;
@@ -15,7 +16,7 @@ header h1 {
 /* Navigation Links */
 nav a {
     color: grey;
-    text-decoration: italic;
+    font-style: italic; /* Fixed text-decoration issue */
     margin: 0 10px;
 }
 
@@ -23,7 +24,7 @@ nav a {
 body {
     font-family: Arial, sans-serif;
     color: #89CFF0; /* Baby Blue */
-    background-color: black;
+    background-color: grey; /* Changed background to grey */
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -54,7 +55,3 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
-
-
-
