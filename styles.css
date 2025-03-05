@@ -4,7 +4,7 @@
  
  /* Header */
 header {
-    background-image: url('lake luosie.jpg.jpeg'); /*background image*/
+   
     background-color: #006400; /* Dark Green */
     background-position: center
     background-size: cover;
@@ -29,8 +29,9 @@ nav a {
 body {
     font-family: Arial, sans-serif;
     color: #89CFF0; /* Baby Blue */
-    background-image: url('lake lousie.jgp.jpeg')
+    background-image: url('file:///C:/Users/legae/Downloads/Lake%20Louise%20Alberta%20[OC]%20[1920x1080]%20%20Click%20the%20link%20for%20this%20photo%20in%20Original%20Resolution_%20%20If%20you%20have%20Twitter%20follow%20twitter.com_lifeporn5%20for%20more%20cool%20photos.%20%20Thank%20you%20author_.com_sasha_limm%20%20Have%20The%20Nice%20Life!')
     background-size: cover; /* Ensures the image covers the entire screen */
+    background-position: center;
     margin: 0;
     padding: 0;
     line-height: 1.6;
