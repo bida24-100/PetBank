@@ -1,15 +1,55 @@
-
-
-
- 
- /* Header */
-header {
-    background-image: url('file:///C:/Users/legae/Downloads/Lake%20Louise%20Alberta%20[OC]%20[1920x1080]%20%20Click%20the%20link%20for%20this%20photo%20in%20Original%20Resolution_%20%20If%20you%20have%20Twitter%20follow%20twitter.com_lifeporn5%20for%20more%20cool%20photos.%20%20Thank%20you%20author_.com_sasha_limm%20%20Have%20The%20Nice%20Life!')
-    background-size: cover; /* Ensures the image covers the entire screen */
-    background-position: center;
-    color: white;
+/* Ensure the full height is used */
+html, body {
+    height: 100%;
+    margin: 0;
     padding: 0;
+}
+
+/* Set the background image for the full page */
+body {
+    background-image: url('/* Ensure the full height is used */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background image for the full page */
+body {
+    background-image: url('/* Ensure the full height is used */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background image for the full page */
+body {
+    background-image: url('/* Ensure the full height is used */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background image for the full page */
+body {
+    background-image: url('lake luosie.jpg.jpeg'); /* Replace with a valid image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the image fixed when scrolling */
+    font-family: Arial, sans-serif;
+    color: #89CFF0; /* Baby Blue */
+    line-height: 1.6;
+}
+
+/* Header */
+header {
     text-align: center;
+    color: white;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: semi-transparent background */
 }
 
 /* Header Title */
@@ -24,21 +64,12 @@ nav a {
     margin: 0 10px;
 }
 
-/* Body */
-body {
-    font-family: Arial, sans-serif;
-    color: #89CFF0; /* Baby Blue */
-    
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-}
-
 /* Main Content */
 main {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background */
     padding: 20px;
     max-width: 800px;
-    margin: 0 auto; /* Adds a semi-transparent dark overlay for readability */
+    margin: 20px auto;
     border-radius: 10px;
     color: white;
 }
@@ -53,11 +84,194 @@ main img {
 
 /* Footer */
 footer {
-    background-color: transparent;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent footer background */
     color: grey;
     text-align: center;
     padding: 10px;
-    position: fixed;
-    bottom: 0;
     width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
+'); /* Replace with a valid image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the image fixed when scrolling */
+    font-family: Arial, sans-serif;
+    color: #89CFF0; /* Baby Blue */
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: semi-transparent background */
+}
+
+/* Header Title */
+header h1 {
+    margin: 0;
+}
+
+/* Navigation Links */
+nav a {
+    color: grey;
+    font-style: italic;
+    margin: 0 10px;
+}
+
+/* Main Content */
+main {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background */
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    border-radius: 10px;
+    color: white;
+}
+
+/* Images in Main */
+main img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+/* Footer */
+footer {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent footer background */
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+'); /* Replace with a valid image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the image fixed when scrolling */
+    font-family: Arial, sans-serif;
+    color: #89CFF0; /* Baby Blue */
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: semi-transparent background */
+}
+
+/* Header Title */
+header h1 {
+    margin: 0;
+}
+
+/* Navigation Links */
+nav a {
+    color: grey;
+    font-style: italic;
+    margin: 0 10px;
+}
+
+/* Main Content */
+main {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background */
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    border-radius: 10px;
+    color: white;
+}
+
+/* Images in Main */
+main img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+/* Footer */
+footer {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent footer background */
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+'); /* Replace with a valid image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the image fixed when scrolling */
+    font-family: Arial, sans-serif;
+    color: #89CFF0; /* Baby Blue */
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: semi-transparent background */
+}
+
+/* Header Title */
+header h1 {
+    margin: 0;
+}
+
+/* Navigation Links */
+nav a {
+    color: grey;
+    font-style: italic;
+    margin: 0 10px;
+}
+
+/* Main Content */
+main {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background */
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    border-radius: 10px;
+    color: white;
+}
+
+/* Images in Main */
+main img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+/* Footer */
+footer {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent footer background */
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
+ 
