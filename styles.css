@@ -8,9 +8,8 @@ html, body {
     padding: 0;
 }
 
-/* Set the default background image (optional) */
 body {
-    background-image: url('lake luosie.jpg.jpeg'); /* Replace with a default image */
+    background-image: url('lake luosie.jpg.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -35,7 +34,7 @@ header h1 {
 
 /* Navigation Links */
 nav a {
-    color: grey;
+    color: black;
     font-style: italic;
     margin: 0 10px;
 }
